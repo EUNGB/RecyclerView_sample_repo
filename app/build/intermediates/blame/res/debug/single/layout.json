@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/eungb/Desktop/dev/AOS/RecyclerView_Sample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_post.xml",
+        "source": "/Users/eungb/Desktop/dev/AOS/RecyclerView_Sample/app/src/main/res/layout/item_post.xml"
+    },
+    {
+        "merged": "/Users/eungb/Desktop/dev/AOS/RecyclerView_Sample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/eungb/Desktop/dev/AOS/RecyclerView_Sample/app/src/main/res/layout/activity_main.xml"
+    }
+]

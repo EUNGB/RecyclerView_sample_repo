@@ -1,0 +1,6 @@
+com/meltingb/recyclerview_sample/databinding/ActivityMainBinding.java
+ com.meltingb.recyclerview_sample.databinding.ActivityMainBinding
+com/meltingb/recyclerview_sample/BuildConfig.java
+ com.meltingb.recyclerview_sample.BuildConfig
+com/meltingb/recyclerview_sample/databinding/ItemPostBinding.java
+ com.meltingb.recyclerview_sample.databinding.ItemPostBinding
